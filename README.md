@@ -9,5 +9,5 @@ My most important project so far is [RoboTito](https://github.com/ATT-Inc/RoboTi
 ## Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ti7oyan&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-## Time spent last week
+## Time spent
 [![Ti7oyan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ti7oyan&theme=react)](https://github.com/anuraghazra/github-readme-stats)
