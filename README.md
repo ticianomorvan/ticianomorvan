@@ -1,13 +1,27 @@
-# Ti7oyan
-I'm a young developer interested in Python, [Discord.py](https://github.com/Rapptz/discord.py) and Web developing.
+<p align="center">
+  <img src="https://i.imgur.com/EqkdsIb.png" width="200px" height="200px">
+ </p>
+<h1 align="center">Ti7oyan</h1>
+<p align="center">
+  I'm a young developer interested in Python, discord.py and Web developing.<br>
+  My most important project so far is <a href="https://github.com/Ti7oyan/RoboTito" target="__blank">RoboTito</a>
+</p>
 
-My most important project so far is [RoboTito](https://github.com/Ti7oyan/RoboTito)
+<h2 align="center">My Github Stats</h2>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ti7oyan&theme=dark&show_icons=true">
+  </a>
+</p>
 
-## Stats
-[![Ti7oyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ti7oyan&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">I mostly work on:</h2>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ti7oyan&theme=dark">
+  </a>
 
-## Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ti7oyan&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-## Time spent
-[![Ti7oyan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ti7oyan&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">I spent my coding time in:</h2>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ti7oyan&theme=dark&layout=compact&langs_count=10">
+  </a>
