@@ -1,4 +1,5 @@
-<h3 align="center">Hi!, I'm <b>Ti7oyan</b></p>
+<h3 align="center">Hi!, I'm Ti7oyan</h3>
+
 <p align="center">
   <a href="https://ti7oyan.github.io/" target="__blank">My Website</a>
 </p>
@@ -33,6 +34,7 @@ Some facts about me:
 
 ---
 <h4 align="center">Reach me</h4>
+
 You can reach me by different ways:
 - **Instagram**: [ti7oyan](https://instagram.com/ti7oyan)
 - **Discord**: Titoyan7#7170
