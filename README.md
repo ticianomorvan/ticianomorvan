@@ -19,18 +19,9 @@ Some facts about me:
 - 💻 I **love GNU/Linux**, but I keep a Dual-Boot system.
 
 ---
-<h4 align="center">Stats, technlogies and time spent</h4>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Ti7oyan&theme=dark&show_icons=true">
-  </a>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ti7oyan&theme=dark">
-  </a>
-  <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ti7oyan&theme=dark&layout=compact&langs_count=10">
   </a>
 </p>
 
@@ -39,5 +30,5 @@ Some facts about me:
 
 You can reach me by different ways:
 - 📷 **Instagram**: [ti7oyan](https://instagram.com/ti7oyan)
-- 🎧 **Discord**: Titoyan7#7170
+- 🎧 **Discord**: Titoyan7#0484
 - 📨 **E-mail**: [Protonmail](mailto:ticiano.morvan@protonmail.com)
