@@ -23,6 +23,9 @@ Some facts about me:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Ti7oyan&theme=dark&show_icons=true">
   </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ti7oyan&theme=dark">
+  </a>
 </p>
 
 ---
