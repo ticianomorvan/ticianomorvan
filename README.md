@@ -1,24 +1,10 @@
-<h3 align="center">👋 Hi!, I'm Ti7oyan</h3>
+<h2 align="center">👋 Hi!, I'm Ti7oyan</h2>
 
-<p align="center">
-  <a href="https://ti7oyan.github.io/" target="__blank">My Website 🖥</a>
+<h2 align="center">About me</h2>
+<p>
+  My real name is Ticiano, and I'm a student and front end developer. Since I was 15, I'm constantly learning and trying new technologies as you can see in <b>Skills and technologies</b> section. I'm interested in collaborating in my own projects or other open-source projects, so, if you have an interesting idea, send me a message!
 </p>
 
----
-<h4 align="center">About me</h4>
-I'm a young developer. I have been coding for almost a year and learned a lot in the process. I'm currently in high school, but planning to study Software Engineering or Computer Science.  
-
-Apart from coding, I love to play videogames and chat with my friends in Discord. This leads me to my starts in the programming, because I started learning with the objective of create my own Discord bot. At this moment, I'm working on [RoboTito](https://github.com/Ti7oyan/RoboTito) which is my most important project until now.  
-
-Some facts about me:
-- 🎶 I **love any kind of music**.
-- 🖌 I had a personal entrepeneurship where I was working as a **graphic designer**, at least two years.
-- 📱 I'm into **custom Android ROMs world since 2019**.
-- 👨‍💻 I had my first (non-voluntaree) coding contact with a Minecraft plugin in 2019, it was a JSON database.
-- 👨‍🍳 I **like cooking**.
-- 💻 I **love GNU/Linux**, but I keep a Dual-Boot system.
-
----
 <h3 align="center">Skills and technologies</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -39,7 +25,6 @@ Some facts about me:
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
 </p>
-<hr />
 
 <h3 align="center">Preferred ecosystems</h3>
 <p align="center">
@@ -53,9 +38,6 @@ Some facts about me:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Ti7oyan&theme=dark&show_icons=true">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ti7oyan&theme=dark">
   </a>
 </p>
 
