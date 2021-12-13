@@ -1,4 +1,5 @@
 <h2 align="center">👋 Hi!, I'm Ti7oyan</h2>
+<p align="center"><a href="https://ticianomorvan.me" target="_blank">My website!</a></p>
 
 <h2 align="center">About me</h2>
 <p>
