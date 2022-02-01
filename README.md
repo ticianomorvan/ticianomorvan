@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hi!, I'm Ti7oyan</h2>
-<p align="center"><a href="https://ticianomorvan.me" target="_blank">My website!</a></p>
+<p align="center"><a href="https://ticianomorvan.me/link-tree" target="_blank">My socials!</a></p>
 
 <h2 align="center">About me</h2>
 <p>
@@ -43,9 +43,3 @@
 </p>
 
 ---
-<h4 align="center">Reach me</h4>
-
-You can reach me by different ways:
-- 📷 **Instagram**: [ti7oyan](https://instagram.com/ti7oyan)
-- 🎧 **Discord**: Titoyan7#0484
-- 📨 **E-mail**: [Protonmail](mailto:ticiano.morvan@protonmail.com)
