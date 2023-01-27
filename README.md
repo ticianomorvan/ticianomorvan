@@ -1,5 +1,5 @@
-<h2 align="center">👋 Hi!, I'm Ti7oyan</h2>
-<p align="center"><a href="https://ticianomorvan.me/link-tree" target="_blank">My socials!</a></p>
+<h2 align="center">👋 Hi!, I'm Ticiano Morvan</h2>
+<p align="center"><a href="https://socials.ticianomorvan.com.ar" target="_blank">My socials!</a></p>
 
 <h2 align="center">About me</h2>
 <p>
@@ -38,7 +38,7 @@
 ---
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ti7oyan&theme=dark&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=ticianomorvan&theme=dark&show_icons=true">
   </a>
 </p>
 
