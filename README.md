@@ -3,7 +3,7 @@
 
 <h2 align="center">About me</h2>
 <p>
-  My real name is Ticiano, and I'm a student and front end developer. Since I was 15, I'm constantly learning and trying new technologies as you can see in <b>Skills and technologies</b> section. I'm interested in collaborating in my own projects or other open-source projects, so, if you have an interesting idea, send me a message!
+  I'm a college student and full-stack developer. Since I was 15, I'm constantly learning and trying new technologies as you can see in <b>Skills and technologies</b> section. I'm interested in collaborating in my own projects or other open-source projects, so, if you have an interesting idea, send me a message!
 </p>
 
 <h3 align="center">Skills and technologies</h3>
