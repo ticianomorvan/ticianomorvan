@@ -1,5 +1,5 @@
 <h1 align="center">Hi!, I'm Ticiano Morvan</h1>
-<p align="center">Currently working on private stuff, at <a href="https://emailchaser.com" target="_blank">Emailchaser</a></p>
+<p align="center">I'm currently building <a href="https://klasty.com" target="_blank">Klasty</a></p>
 
 <!--START_SECTION:waka-->
 
