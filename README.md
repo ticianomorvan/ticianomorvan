@@ -1,5 +1,5 @@
 <h1 align="center">Hi!, I'm Ticiano Morvan</h1>
-<p align="center">I'm currently building <a href="https://klasty.com" target="_blank">Klasty</a></p>
+<p align="center">I'm currently building <a href="https://patagon.ai" target="_blank">Patagon AI</a></p>
 
 <!--START_SECTION:waka-->
 
